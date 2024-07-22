@@ -1,0 +1,9 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore specific directories
+ia_carteira/
+IA_Carteira45Z/
+
+# Ignore specific files
+Cotacoes.xlsx

@@ -34,7 +34,9 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
    cd IA_actions
 
 2. Instale as dependencias:
+    ```sh
     pip install -r requiriments.txt
 
 3. Execute o programa com o jupyter notebook:
-    $:jupyter notebook
+    ```sh
+    jupyter notebook
